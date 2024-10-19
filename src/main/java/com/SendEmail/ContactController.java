@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/contact")
-@CrossOrigin(origins = "https://sendemail-portfolio-1.onrender.com")
+@CrossOrigin(origins = "https://piyushbhattarai.netlify.app/")
 public class ContactController {
 
     @Autowired
